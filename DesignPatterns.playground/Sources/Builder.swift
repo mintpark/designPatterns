@@ -40,7 +40,7 @@ struct DeathStar: CustomStringConvertible {
         }
     }
 }
-
+/*
 // 구성요소가 생성되는 순서가 다 보이네. 명시적이군.
 let empire = DeathStarBuilder { builder in
     builder.x = 0.1
@@ -62,3 +62,4 @@ empire
 
 deathStar
 //deathStar2
+*/
