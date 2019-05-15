@@ -16,9 +16,10 @@ final class ElonMusk {
         return true
     }
 }
-
+/*
 let elon = ElonMusk.shared
 elon.amIElon()
 
 let elon2 = ElonMusk.shared
 elon2.amIElon()
+*/
